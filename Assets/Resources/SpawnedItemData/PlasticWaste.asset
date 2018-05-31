@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf61c377e75c73c4b9d5389add38ede2, type: 3}
+  m_Name: PlasticWaste
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1769578458435322, guid: 49045b7330f15bc4aa272c607ca3cd87, type: 2}
+  minLevel: 1
+  spawnType: 1
